@@ -29,14 +29,14 @@ document.addEventListener("DOMContentLoaded", () => {
         const fullNumber = `${countryCode}${phone}`;
 
         const data = {
-            ApiKey: 'TnpFNE5GODFNVEJmTnpFNE5GOD0=',
-            ApiPassword: 'GB46de0HCN',
-            CampaignID: '10895',
+            ApiKey: 'TnpFNE5WODFNVEJmTnpFNE5WOD0=',
+            ApiPassword: 'mfcor8tzpk',
+            CampaignID: '10896',
             FirstName: firstName,
             LastName: lastName,
             Email: email,
             PhoneNumber: fullNumber,
-            Page: 'immediate-connect.app',
+            Page: 'immediate-connect',
         };
 
 
